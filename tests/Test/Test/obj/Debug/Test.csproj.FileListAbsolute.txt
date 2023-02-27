@@ -1,0 +1,8 @@
+F:\AutoSalonBot\tests\Test\Test\bin\Debug\Test.exe.config
+F:\AutoSalonBot\tests\Test\Test\bin\Debug\Test.exe
+F:\AutoSalonBot\tests\Test\Test\bin\Debug\Test.pdb
+F:\AutoSalonBot\tests\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+F:\AutoSalonBot\tests\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+F:\AutoSalonBot\tests\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\AutoSalonBot\tests\Test\Test\obj\Debug\Test.exe
+F:\AutoSalonBot\tests\Test\Test\obj\Debug\Test.pdb
